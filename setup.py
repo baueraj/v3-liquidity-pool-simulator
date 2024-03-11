@@ -3,13 +3,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="v3_liquidity_pool_simulator",
-    version="0.1.0-alpha.2",
+    version="0.1.0-alpha.4",
     author="the_orthanc_tower",
     author_email="andrbaue@gmail.com",
     description="A simple simulator for Uniswap V3 liquidity pools.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourgithub/v3-liquidity-pool-simulator",
+    url="https://github.com/baueraj/v3-liquidity-pool-simulator",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
