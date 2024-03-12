@@ -10,6 +10,9 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     url="https://github.com/baueraj/v3-liquidity-pool-simulator",
+    project_urls={
+        "Source": "https://github.com/baueraj/v3-liquidity-pool-simulator"
+    },
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
