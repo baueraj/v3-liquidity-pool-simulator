@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="v3_liquidity_pool_simulator",
-    version="0.1.0",
+    version="0.2.0",
     author="the_orthanc_tower",
     author_email="andrbaue@gmail.com",
     description="A simple simulator for Uniswap V3 liquidity pools.",
