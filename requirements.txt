@@ -1,3 +1,8 @@
+p4python
+ptpython
+PIPython
+pepython
+PbPython
 requests
 pandas
 web3
