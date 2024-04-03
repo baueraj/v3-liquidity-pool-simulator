@@ -1,3 +1,5 @@
+uniswap-v3-liquidity-pool-simulator
+poseidon-python
 p4python
 ptpython
 PIPython
